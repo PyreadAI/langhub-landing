@@ -218,6 +218,15 @@ export const IconVolume = make(
     </>
 );
 
+export const IconRepeat = make(
+    <>
+        <path d="M17 2l4 4-4 4" />
+        <path d="M3 11V9a3 3 0 0 1 3-3h15" />
+        <path d="M7 22l-4-4 4-4" />
+        <path d="M21 13v2a3 3 0 0 1-3 3H3" />
+    </>
+);
+
 export const IconShield = make(
     <path d="M12 3l8 3v6c0 5-3.5 8-8 9-4.5-1-8-4-8-9V6z" />
 );
